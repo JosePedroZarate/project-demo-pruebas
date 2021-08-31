@@ -1,5 +1,0 @@
-# multiplicatio
-#
-#
-#
-# nulln
