@@ -1,6 +1,0 @@
-#
-#
-#
-#autor
-#
-#division###
