@@ -1,6 +1,0 @@
-# substration
-#
-# autor
-#
-#
-# fcha
